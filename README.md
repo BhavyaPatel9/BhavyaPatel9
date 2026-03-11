@@ -19,18 +19,21 @@
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
-| | |
-|---|---|
-| 🥈 **AIR 2 — SAE-INDIA ADDC 2025** | Custom autonomous delivery UAV with RTK-GPS + ArUco precision landing |
-| 🛸 **Navigation Robotics Intern** | Spitze Aerospace Pvt Ltd |
-| 🔬 **Summer Research Intern** | IITRAM |
+| Achievement/Role | Description |
+| :--- | :--- |
+|  **Navigation Robotics Intern** | **Spitze Aerospace Pvt Ltd**: Focused on GNC (Guidance, Navigation, and Control) for auto systems. |
+|  **Summer Research Intern** | **IITRAM**: Conducted specialized research in robotics and automation infrastructure. |
+|  **AIR 2 — SAE-INDIA ADDC 2025** | Developed custom autonomous delivery UAV; **RTK-GPS + ArUco** precision landing systems. |
+|  **Winner — Drone Helix 2026** | Secured **1st Place** at competition hosted at MindBend, SVNIT. |
+|  **Paper Published** | Presented findings at **ICRAM-2025**; paper to be published in a **SCOPUS-indexed** Springer book. |
+
 
 ---
 
 
-## 🛠️ Core Skills
+##  Core Skills
 
 **Languages & Frameworks**
 
